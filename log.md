@@ -14,4 +14,8 @@
 
 **Thoughts** both yesterday and today took entirely too long to work through and debug. Very exhausted but hoping to actually get real work done tomorrow.
 
+### Day 3: April 4th, 2019
 
+**Today's Progress**: Fixed a bug my brother Will discovered where Rolo would crash if a user denied having Contacts read.
+
+**Thoughts** Probably not handling this the best way and there are possible edge cases that are not taken care of, but not sure how often a user is going to do something like this. We will put more time and thought into it once we have more data.
