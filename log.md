@@ -35,3 +35,11 @@
 **Today's Progress** Replaced NativeBase's DatePicker with a new component from React Native Modal DateTime Picker. Used my first hook in an app too with `useState`
 
 **Thoughts** Now I see what all the talk is on hooks, they're really awesome. They afforded me the ability to be more declarative with my component's logic without rewriting it into a class. Also the user experience from the new Date picker is sooo much better than NativeBase's, and I can make it do whatever I want.
+
+### Day 7: April 8th, 2019
+
+**Today's Progress** Mentored @nblaida on the website she's building and at first I wasn't going to count it but no, that was definitely coding too!
+
+### Day 8: April 9th, 2019
+
+**Today's Progress**  Back to my own code and fixed a bug in my selectors that hid users with no email, phone, or home address
