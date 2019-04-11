@@ -43,3 +43,7 @@
 ### Day 8: April 9th, 2019
 
 **Today's Progress**  Back to my own code and fixed a bug in my selectors that hid users with no email, phone, or home address
+
+### Day 9: April 10th, 2019
+
+**Today's Progress** Added age and all parents & children to ContactProfile so even step parents and step children are shown. However the Profile is not updated yet, because they share so much logic and will have to be refactored with some kind of selector, I'm not sure, but it might improve performance.
