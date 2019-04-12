@@ -47,3 +47,9 @@
 ### Day 9: April 10th, 2019
 
 **Today's Progress** Added age and all parents & children to ContactProfile so even step parents and step children are shown. However the Profile is not updated yet, because they share so much logic and will have to be refactored with some kind of selector, I'm not sure, but it might improve performance.
+
+### Day 10: April 11th, 2019
+
+**Today's Progress** Added siblings to the contact details and profile, a nice added calculation that I hope sets the stage for future relationship calculations
+
+**Thoughts** In order to make it less of a headache to tinker with the logic to pull in all this relational data on a contact I had to create a selector factory, my first time doing so. It was super easy and makes the code super reusable.
