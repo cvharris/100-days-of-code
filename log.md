@@ -53,3 +53,7 @@
 **Today's Progress** Added siblings to the contact details and profile, a nice added calculation that I hope sets the stage for future relationship calculations
 
 **Thoughts** In order to make it less of a headache to tinker with the logic to pull in all this relational data on a contact I had to create a selector factory, my first time doing so. It was super easy and makes the code super reusable.
+
+### Day 11: April 12th, 2019
+
+**Today's Progress** Not much code, changed a few iOS configurations to deploy it for TestFlight then ran into Apple's Compliance on encryption. Wasn't sure how to answer or the consequences of it, did a lot of research but not releasing till I know more
